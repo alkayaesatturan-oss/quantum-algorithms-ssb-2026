@@ -1,0 +1,16 @@
+# Credentials
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Competition data and generated outputs (not redistributable)
+**/dataset/
+**/documents/
+**/output/

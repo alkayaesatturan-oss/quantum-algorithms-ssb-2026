@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+matplotlib
+ortools
+qiskit
+qiskit-aer
+qiskit-ibm-runtime
+# optional: cudaq (NVIDIA CUDA-Q backend)
